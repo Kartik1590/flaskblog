@@ -1,0 +1,7 @@
+{
+    "css.lint.unknownAtRules": "ignore",
+    "css.lint.argumentsInColorFunction": "warning",
+    "css.lint.hexColorLength": "warning",
+    "scss.lint.argumentsInColorFunction": "warning",
+    "scss.lint.hexColorLength": "ignore"
+}
